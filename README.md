@@ -1,5 +1,4 @@
-# Yash_893
- [Yash893](https://sammantiwari-893.vercel.app/)
+# Yash_893  [Yash893](https://sammantiwari-893.vercel.app/)
 
 
 🔹 Report Bug     🔹 Request Feature 
